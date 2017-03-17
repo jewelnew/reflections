@@ -10,6 +10,12 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	every time you want to do something different,you can create a branch,i like to think of it as context switching.
+	Git branchs help you keep you projects orgnized,particuly,
+	when you're sharing that project publicly.you have your master branchs that would be your production quality branch that never breaks,always work.And then you could have a development branch where active work is taking place on your project.And then a lot times you will have things like experimental branch or maybe some of unique feature branchs.you want to share thoes with the public but with the understanding of that this is'nt production quality work just yet.
+	Branchs are also good when not only collaborating publicly,but they're really good colloborate with yourself.
+
+	so a lot of time, if i working on a new feature and then i come aross a bug.Branchs allow me that ability to context switch and get away from the work i am doing on my feature.go back to where i need to be to fix the bug,and then compartmentalize that work. Branchs are really good.Even if i get bored on working on some feature. it gives you ability to, okay, i want to switch and get start to working on something else right now.
 
 How do the diagrams help you visualize the branch structure?
 
